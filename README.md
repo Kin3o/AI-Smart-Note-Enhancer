@@ -4,6 +4,9 @@
 In this project I simply prompted codex to create a Smart Note Enhancer to make jumbled, unorganized and difficult to digest notes into a more comprehensive example of notes that I could study and that were more easily digestable. I did not build the program, I am just showing off the powers and capabilities of LLMs and how I use them everyday to improve my effeciency and productivity.
 <br />
 
+<h2>Background</h2>
+When I 
+<br />
 
 <h2>Programs and Utilities Used</h2>
 

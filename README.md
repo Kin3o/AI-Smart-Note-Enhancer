@@ -1,18 +1,18 @@
-<h1>Put Name of Lab Here</h1>
+<h1>Smart Note Enhancer with Claude API key</h1>
 
 <h2>Description</h2>
-Project consists of these background perameters and this is my goal for the lab and why i would use it
+In this project I simply prompted codex to create a Smart Note Enhancer to make jumbled, unorganized and difficult to digest notes into a more comprehensive example of notes that I could study and that were more easily digestable. I did not build the program, I am just showing off the powers and capabilities of LLMs and how I use them everyday to improve my effeciency and productivity.
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Programs and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Obsidian</b> 
+- <b>Codex</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 11</b> (21H2)
 
 <h2>Program walk-through:</h2>
 
